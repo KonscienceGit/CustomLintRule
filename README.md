@@ -27,9 +27,9 @@ Java JRE 1.8
 ## Comment l'utiliser
 Pour utilisercette règle, vous devez d'abord la compiler à l'aide de gradle, l'outil de compilation d'Android Studio.
 * Une fois dans Android Studio, dans le terminal, entrez 
-  > gradlew clean
+  * gradlew clean
   puis
-  > gradlew assemble
+  * gradlew assemble
 * Ensuite rendez vous dans le répertoire CustomLintRule/myCheck/build/libs/myCheck.jar
 * déplacer le .jar dans the dossier des règles lint personnalisées, situé pardéfaut à
    * ~/.android/lint/ sous Unix

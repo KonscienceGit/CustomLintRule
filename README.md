@@ -1,4 +1,4 @@
-# CustomLintRule
+# CustomLintRule (English)
 This custom Lint rule allow for the detection of class declaration in the code source, which the name is 3 or less character short.
 
 ## Version
@@ -15,7 +15,7 @@ For more information about recent changes in Android Lint and how to write custo
 * Google group lint-dev: https://groups.google.com/forum/#!forum/lint-dev
 * KotlinConf on youtube: https://youtu.be/p8yX5-lPS6o
 
-# Règle Lint Personnalisée
+# Règle Lint Personnalisée (French)
 Cette règle Lint personnalisée permet la détection de nom de classes dans le code source, dont le nom fait trois caractères ou moins.
 
 ## Version

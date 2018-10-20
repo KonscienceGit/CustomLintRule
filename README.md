@@ -1,5 +1,5 @@
 # CustomLintRule (English)
-[Lire en Français]()
+[Lire en Français](https://github.com/KonscienceGit/CustomLintRule/blob/master/README.md#r%C3%A8gle-lint-personnalis%C3%A9e-fran%C3%A7ais)
 
 This custom Lint rule allow for the detection of class declaration in the code source, which the name is 3 or less character short.
 
